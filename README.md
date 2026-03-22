@@ -10,9 +10,11 @@ This project uses Pytorch and CNN's to relate the csv textual data of pokemon ty
 
 Various google Colabs are added, their main use was experimentation of the properties of CNN, data augmentation and transfer learning over simpler datasets. This allowed us to configure and implement a more solid and perfectly subdivided Colab Notebook in the actual core file for the project:
 
-> Pokemon_cnn.ipynb
+> Pokemon_cnn.ipynb:
+> In Colab: https://drive.google.com/file/d/18nRTXUrehlSubFUJycQzQuBdMICGpBQq/view?usp=sharing
 
 > Pokemon_cnn_Transfer_ver.ipynb
+> In Colab: https://colab.research.google.com/drive/10tsXFfKffmpjyQcepBPigJVBESlr_V1B?usp=sharing
 
 ## ![PokemonCNN](images/PokemonCNN.png)
 
